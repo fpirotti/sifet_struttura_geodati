@@ -1,2 +1,2 @@
-# sifet_struttura_geodati
-corso SIFET
+# Corso #InFormaConSIFET
+Materiale per il corso SIFET
